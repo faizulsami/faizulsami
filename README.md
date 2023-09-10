@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1H0VnkK1m11RZnbDrBmvXX0Y5ofgRdA3Z/view?usp=drive_link](https://drive.google.com/file/d/1H0VnkK1m11RZnbDrBmvXX0Y5ofgRdA3Z/view?usp=drive_link)
 
-- ⚡ Fun fact **I consider "console.log()" your best friend and confidant.**
+- ⚡ Fun fact **I consider "console.log()" my best friend and confidant.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
