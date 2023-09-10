@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sami.miralamin.info/](https://sami.miralamin.info/)
 
-- 💬 Ask me about **TypeScript, React, Express.js, MongoDB and Node.js**
+- 💬 Ask me about **TypeScript, React, Express.js, MongoDB, Node.js and any JavaScript frameworks or library**
 
 - 📫 How to reach me **faizul.sami2000@gmail.com**
 
