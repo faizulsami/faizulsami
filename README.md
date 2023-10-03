@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **faizul.sami2000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1H0VnkK1m11RZnbDrBmvXX0Y5ofgRdA3Z/view?usp=drive_link](https://drive.google.com/file/d/1H0VnkK1m11RZnbDrBmvXX0Y5ofgRdA3Z/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1asxErRy5Y86SxZu7qJfdaXJBf5Wxosfc/view?usp=sharing](https://drive.google.com/file/d/1H0VnkK1m11RZnbDrBmvXX0Y5ofgRdA3Z/view?usp=drive_link)
 
 - ⚡ Fun fact **I consider "console.log()" my best friend and confidant.**
 
